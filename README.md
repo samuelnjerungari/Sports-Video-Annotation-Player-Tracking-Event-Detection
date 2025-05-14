@@ -34,7 +34,7 @@ Through this project, I have learned:
 
 ## Screenshot
 To visualize my work, here's a sample screenshot from my annotation session:
-![Player Tracking Annotation Sample](screenshots/player_tracking_annotation_sample.png)
+![Player Tracking Annotation Sample](./player_tracking_annotation_sample.png)
 
 ## Connect with Me
 If you are interested in leveraging my skills for your AI or data annotation projects, feel free to reach out via LinkedIn:
